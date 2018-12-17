@@ -1,6 +1,6 @@
 ﻿namespace Sales.Backend.Models
 {
-  using Domain.Models;
+  using Sales.Domain.Models;
 
   public class LoalDataContext : DataContext
   {
